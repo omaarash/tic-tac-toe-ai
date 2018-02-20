@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1460846738 source:c:\users\moustafa\desktop\codeblocks\xo_with_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1461176587 source:c:\users\amr\pictures\xo_with_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1461176587 source:h:\xo_with_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1461257220 source:f:\xo_with_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1461638572 source:c:\users\amr\videos\xo_with_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1461946704 source:c:\users\amr\desktop\xo_with_ai\xo_with_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
